@@ -17,7 +17,7 @@ The **MPVBench** repository provides open-source, real-time measured data from f
 ## Data Types
 The repository provides data on 15-minute power production (W) and temperature (K) and is updated monthly.
 
-**⚠️ Note**: **Last update was on 01.08.2024**.
+**⚠️ Note**: **Last update was on 02.09.2024**.
 
 ## Repository Structure
 ```plaintext
