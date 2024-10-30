@@ -6,7 +6,7 @@
 
 **Contact**: [goekhan.demirel@kit.edu](mailto:goekhan.demirel@kit.edu)
 
-This **MPVBench** repository provides supplementary materials for the paper [Impact and Integration of Mini Photovoltaic Systems on Electric Power Distribution Grids]([https://arxiv.org/abs/2404.02763](https://link.springer.com/chapter/10.1007/978-3-031-74741-0_16)). 
+This **MPVBench** repository provides supplementary materials for the paper [Impact and Integration of Mini Photovoltaic Systems on Electric Power Distribution Grids](https://link.springer.com/chapter/10.1007/978-3-031-74741-0_16).
 
 ## Introduction
 ![MPVBenchLogo](data/img/00MPVBench_logo.svg)
