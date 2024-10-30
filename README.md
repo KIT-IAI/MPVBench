@@ -6,7 +6,7 @@
 
 **Contact**: [goekhan.demirel@kit.edu](mailto:goekhan.demirel@kit.edu)
 
-This **MPVBench** repository provides supplementary materials for the paper [Impact and Integration of Mini Photovoltaic Systems on Electric Power Distribution Grids](https://arxiv.org/abs/2404.02763). 
+This **MPVBench** repository provides supplementary materials for the paper [Impact and Integration of Mini Photovoltaic Systems on Electric Power Distribution Grids]([https://arxiv.org/abs/2404.02763](https://link.springer.com/chapter/10.1007/978-3-031-74741-0_16)). 
 
 ## Introduction
 ![MPVBenchLogo](data/img/00MPVBench_logo.svg)
@@ -17,7 +17,7 @@ The **MPVBench** repository provides open-source, real-time measured data from f
 ## Data Types
 The repository provides data on 15-minute power production (W) and temperature (K) and is updated monthly.
 
-**⚠️ Note**: **Last update was on 24.09.2024**.
+**⚠️ Note**: **Last update was on 30.10.2024**.
 
 ## Repository Structure
 ```plaintext
@@ -65,15 +65,17 @@ If you use this framework in a scientific publication, please cite the correspon
 
 #### BibTeX format
 ```tex
-@InProceedings{Demirel_MPV_2024, 
-    author = {Demirel, Gökhan and Grafenhorst, Simon and Förderer, Kevin and Hagenmeyer, Veit}, 
-    editor = {Jørgensen, Bo Nørregaard and da Silva, Luiz Carlos Pereira and Ma, Zheng}, 
-    title = {Impact and Integration of Mini Photovoltaic Systems on Electric Power Distribution Grids}, 
-    booktitle = {Energy Informatics}, 
-    year = {2024},
+@InProceedings{Demirel_MPV_2024,
+    author = {Demirel, Gökhan and Grafenhorst, Simon and Förderer, Kevin and Hagenmeyer, Veit},
+    editor = {Jørgensen, Bo Nørregaard and Ma, Zheng Grace and Wijaya, Fransisco Danang and Irnawan, Roni and Sarjiya, Sarjiya},
+    title = {Impact and Integration of Mini Photovoltaic Systems on Electric Power Distribution Grids},
+    booktitle = {Energy Informatics},
+    year = {2025},
     publisher = {Springer Nature Switzerland},
-    pages = {1--23},
-    isbn = {978-3-031-48652-4}}
+    address = {Switzerland Cham},
+    pages = {247--265},
+    isbn = {978-3-031-74741-0}
+}
 ```
 
 ## Contact
