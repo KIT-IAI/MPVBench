@@ -40,7 +40,7 @@ MPVBench/
 ```
 
 The structure of the repository is as follows:
-  - CSV data files (e.g., [p_watt.csv](data/p_watt.csv), [t_celsius.csv](data/t_celsius.csv)).
+  - CSV data files (e.g., [p_watt_5min.csv](data/p_watt_5min.csv), [p_watt_15min.csv](data/p_watt_15min.csv), [t_celsius_5min.csv](data/t_celsius_5min.csv), [t_celsius_15min.csv](data/t_celsius_15min.csv)).
   - Metadata files for technical specifications (e.g., [01a_mpv_metadata.md](data/01a_mpv_metadata.md)).
   - Jupyter notebooks for tutorial ([MPVBench_Tutorial.ipynb](MPVBench_Tutorial.ipynb)).
 
