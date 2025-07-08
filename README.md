@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green?logo=opensource)](./LICENSE)
 [![Code Style](https://img.shields.io/badge/Code%20Style-black-000000.svg?logo=python)](https://github.com/psf/black)
 [![](https://img.shields.io/badge/Contact-goekhan.demirel%40kit.edu-yellow?label=Contact)](goekhan.demirel@kit.edu)
-[![DOI](https://img.shields.io/badge/DOI-10.1007/978-3-031-74741-0_16-orange?logo=doi)](https://doi.org/10.1007/978-3-031-74741-0_16)
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2F9783031.74741016-orange?logo=doi)](https://doi.org/10.1007/978-3-031-74741-0_16)
 
 ![MPVBenchLogo](data/img/00MPVBench_logo.svg)
 
