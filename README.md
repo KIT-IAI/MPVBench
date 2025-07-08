@@ -2,24 +2,30 @@
     <img src="data/img/icon_kit.png" width="10%" hspace="20"/> 
 </p>
 
-# MPVBench
+[![Python](https://img.shields.io/badge/Python-3.9.18-blue?logo=python)](https://www.python.org/downloads/release/python-3918/)
+[![License](https://img.shields.io/badge/License-MIT-green?logo=opensource)](./LICENSE)
+[![Code Style](https://img.shields.io/badge/Code%20Style-black-000000.svg?logo=python)](https://github.com/psf/black)
+[![](https://img.shields.io/badge/Contact-goekhan.demirel%40kit.edu-yellow?label=Contact)](goekhan.demirel@kit.edu)
+[![DOI](https://img.shields.io/badge/DOI-10.1007/978-3-031-74741-0_16-orange?logo=doi)](https://doi.org/10.1007/978-3-031-74741-0_16)
 
-**Contact**: [goekhan.demirel@kit.edu](mailto:goekhan.demirel@kit.edu)
-
-This **MPVBench** repository provides supplementary materials for the paper [Impact and Integration of Mini Photovoltaic Systems on Electric Power Distribution Grids](https://link.springer.com/chapter/10.1007/978-3-031-74741-0_16).
-
-## Introduction
 ![MPVBenchLogo](data/img/00MPVBench_logo.svg)
 
-The **MPVBench** repository provides open-source, real-time measured data from five Mini Photovoltaic (MPV) or Balcony Power Plants systems located in Karlsruhe and Pforzheim.
+<h1 align="center">Impact and Integration of Mini Photovoltaic Systems on Electric Power Distribution Grids</h1>
 
----
+**⚠️ Note**: *Last update on 08.07.2025*
+
+
+This **MPVBench** repository provides supplementary materials for the paper [Impact and Integration of Mini Photovoltaic Systems on Electric Power Distribution Grids](https://link.springer.com/chapter/10.1007/978-3-031-74741-0_16). This repository provides open-source, real-time measured data from five Mini Photovoltaic (MPV) or Balcony Power Plants systems located in Karlsruhe and Pforzheim.
+
 ## Data Types
 The repository provides data on 15-minute power production (W) and temperature (K) and is updated monthly.
 
-**⚠️ Note**: **Last update was on 02.01.2025**.
-
 ## Repository Structure
+
+<details>
+  <summary>Click to expand/collapse</summary>
+
+
 ```plaintext
 MPVBench/
 ├── data/
@@ -47,7 +53,7 @@ The structure of the repository is as follows:
 
 <img src="data/img/05MPVs_Location_map.svg" alt="MPVBenchmarkMAP" style="width:30%;">
 
----
+</details>
 
 ## How to Use
 1. Clone the repository:
@@ -56,12 +62,11 @@ The structure of the repository is as follows:
    pip install -r requirements.txt
    ```
 
-## License
-This code is licensed under the [MIT License](LICENSE).
+<h2>Citation &#128221;</h2>
+<p>
+If you use this framework in your research, please consider citing our paper &#128221; and giving the repository a star &#11088;:
+</p>
 
-## Citation <a name="citation"></a>
-<!-- If you use this framework or our results in your research, please cite our [paper](https://will be published): -->
-If you use this framework in a scientific publication, please cite the corresponding paper:
 
 #### BibTeX format
 ```tex
@@ -78,5 +83,5 @@ If you use this framework in a scientific publication, please cite the correspon
 }
 ```
 
-## Contact
-For any questions or inquiries, please contact goekhan.demirel@kit.edu.
+## License
+This code is licensed under the [MIT License](LICENSE).
