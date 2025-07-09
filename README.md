@@ -12,19 +12,18 @@
 
 <h1 align="center">Impact and Integration of Mini Photovoltaic Systems on Electric Power Distribution Grids</h1>
 
-**⚠️ Note**: *Last update on 08.07.2025*
-
+**⚠️ Note**: _Last update on 08.07.2025_
 
 This **MPVBench** repository provides supplementary materials for the paper [Impact and Integration of Mini Photovoltaic Systems on Electric Power Distribution Grids](https://link.springer.com/chapter/10.1007/978-3-031-74741-0_16). This repository provides open-source, real-time measured data from five Mini Photovoltaic (MPV) or Balcony Power Plants systems located in Karlsruhe and Pforzheim.
 
 ## Data Types
+
 The repository provides data on 15-minute power production (W) and temperature (K) and is updated monthly.
 
 ## Repository Structure
 
 <details>
   <summary>Click to expand/collapse</summary>
-
 
 ```plaintext
 MPVBench/
@@ -46,16 +45,17 @@ MPVBench/
 ```
 
 The structure of the repository is as follows:
-  - CSV data files (e.g., [p_watt_5min.csv](data/p_watt_5min.csv), [p_watt_15min.csv](data/p_watt_15min.csv), [t_celsius_5min.csv](data/t_celsius_5min.csv), [t_celsius_15min.csv](data/t_celsius_15min.csv)).
-  - Metadata files for technical specifications (e.g., [01a_mpv_metadata.md](data/01a_mpv_metadata.md)).
-  - Jupyter notebooks for tutorial ([MPVBench_Tutorial.ipynb](MPVBench_Tutorial.ipynb)).
 
+- CSV data files (e.g., [p_watt_5min.csv](data/p_watt_5min.csv), [p_watt_15min.csv](data/p_watt_15min.csv), [t_celsius_5min.csv](data/t_celsius_5min.csv), [t_celsius_15min.csv](data/t_celsius_15min.csv)).
+- Metadata files for technical specifications (e.g., [01a_mpv_metadata.md](data/01a_mpv_metadata.md)).
+- Jupyter notebooks for tutorial ([MPVBench_Tutorial.ipynb](MPVBench_Tutorial.ipynb)).
 
 <img src="data/img/05MPVs_Location_map.svg" alt="MPVBenchmarkMAP" style="width:30%;">
 
 </details>
 
 ## How to Use
+
 1. Clone the repository:
    ```bash
    git clone git@github.com:KIT-IAI/MPVBench.git
@@ -67,8 +67,8 @@ The structure of the repository is as follows:
 If you use this framework in your research, please consider citing our paper &#128221; and giving the repository a star &#11088;:
 </p>
 
-
 #### BibTeX format
+
 ```tex
 @InProceedings{Demirel_MPV_2024,
     author = {Demirel, Gökhan and Grafenhorst, Simon and Förderer, Kevin and Hagenmeyer, Veit},
@@ -84,4 +84,5 @@ If you use this framework in your research, please consider citing our paper &#1
 ```
 
 ## License
+
 This code is licensed under the [MIT License](LICENSE).
