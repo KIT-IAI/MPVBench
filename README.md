@@ -12,7 +12,7 @@
 
 <h1 align="center">Impact and Integration of Mini Photovoltaic Systems on Electric Power Distribution Grids</h1>
 
-**⚠️ Note**: _Last update on 09.07.2025_
+**⚠️ Note**: _Last update on 09.11.2025_
 
 This **MPVBench** repository provides supplementary materials for the paper [Impact and Integration of Mini Photovoltaic Systems on Electric Power Distribution Grids](https://link.springer.com/chapter/10.1007/978-3-031-74741-0_16). This repository provides open-source, real-time measured data from five Mini Photovoltaic (MPV) or Balcony Power Plants systems located in Karlsruhe and Pforzheim.
 
