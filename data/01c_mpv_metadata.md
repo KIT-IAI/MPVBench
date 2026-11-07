@@ -1,6 +1,6 @@
-# Technical Overview: 02MPV
+# Technical Overview: 01c MPV
 
-This document provides detailed technical specifications of the components within 02MPV system in Pforzheim, including:
+This document provides detailed technical specifications of the components within the 01c MPV system in Karlsruhe, including:
 
 1. **Solar Module**: VESKA 415W – MONO(BLACK) ![Solar Module](img/01SolarModule_icon.svg)
 2. **Microinverter**: Hoymiles HMS-600-2T Microinverter ![MicroInverter](img/02MicroInverter_icon.svg)
