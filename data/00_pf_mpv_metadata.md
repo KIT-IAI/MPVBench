@@ -3,9 +3,9 @@
 - **1. General Information:**
   - **Benchmark Name**: MPVBench.
   - **Purpose**: Description of the technical specifications for the MPV systems, including details on **_solar modules_**, **_microinverters_** and **_power meter_**.
-  - **Duration**: From 2024-01-01 to 2024-08-01.
+  - **Duration**: From 2024-01-01 to 2025-12-31 (two full measurement years).
   - **Update Frequency**: Monthly.
-  - **Data Resolution**: 15 min.
+  - **Data Resolution**: 5 min and 15 min.
 - **2. Hardware Information:**
   - **Systems Overview**: Four (01a, 01b, 02a, 02b).
     - **Details for 01a MPV**: [01a_mpv_metadata.md](01a_mpv_metadata.md).
